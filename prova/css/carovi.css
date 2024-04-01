@@ -1,0 +1,13 @@
+h2 {
+    font-size: 50px;
+    border: outset;
+    text-align: center;
+    background: palegoldenrod;
+}
+
+pre {
+    font-size: 15px;
+    text-align: center;
+    border: inset;
+    background: lightgoldenrodyellow;
+}
